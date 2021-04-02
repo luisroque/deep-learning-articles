@@ -1,2 +1,2 @@
 # deep-learning-articles
-Deepl learning related articles
+Deep learning related articles
